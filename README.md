@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Uzair-blip
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Uzair-blip/Uzair-blip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in software development, particularly in full-stack web development using Node.js, React, and Express.js.
+- 🌱 I’m currently learning advanced computing concepts and enhancing my skills in enterprise-level software development.
+- 💞️ I’m looking to collaborate on innovative projects, especially those involving real-time applications, API development, and full-stack solutions.
+- 📫 How to reach me: uzayasin123@gmail.com | +923177516604
