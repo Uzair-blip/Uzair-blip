@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Uzair-blip
-- 👀 I’m interested in software development, particularly in full-stack web development using Node.js, React, and Express.js.
-- 🌱 I’m currently learning advanced computing concepts and enhancing my skills in enterprise-level software development.
-- 💞️ I’m looking to collaborate on innovative projects, especially those involving real-time applications, API development, and full-stack solutions.
+- 👀 I’m passionate about software development, with a keen interest in full-stack web development using technologies like Node.js, React, and Express.js. I enjoy tackling complex problems and creating efficient, scalable solutions.
+- 🌱 I’m currently deepening my understanding of advanced computing concepts and honing my skills in enterprise-level software development. My current focus is on mastering backend systems, database management, and cloud-based deployment.
+- 💼 I have hands-on experience with various projects, including developing a real-time chess game using Express.js and Socket.io, and a text-to-image generation app leveraging the DALL-E API. These projects have strengthened my expertise in real-time communication, API development, and full-stack integration.
+- 💞️ I’m looking to collaborate on innovative projects, particularly those that push the boundaries of technology. Whether it’s building real-time applications, developing robust APIs, or crafting full-stack solutions, I’m eager to contribute and learn from other talented developers.
 - 📫 How to reach me: uzayasin123@gmail.com | +923177516604
+- 🌐 Check out my projects on GitHub to see what I’m currently working on and how I approach software development.
