@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there! 👋 I'm Uzair Yasin<br><br>🔭 I’m currently working on MERN stack projects and custom website development.<br>👯 I’m looking to collaborate on open-source projects, SaaS applications, and full-stack web solutions.<br>🤝 I’m looking for help with scaling applications, optimizing performance, and advanced backend architectures.<br>🌱 I’m currently learning Python for backend development and deepening my expertise in DevOps.<br>💬 Ask me about JavaScript, React, Next.js, Node.js, Express.js, MongoDB, and Laravel!<br>⚡ Fun fact: I started as a front-end developer but quickly fell in love with full-stack development.<br><br>🚀 Let's connect and build something amazing!
+Hi there! 👋 I'm Uzair Yasin<br><br>🔭 I’m currently working on MERN stack projects and custom website development.<br>👯 I’m looking to collaborate on open-source projects, SaaS applications, and full-stack web solutions.<br>🤝 I’m looking for help with scaling applications, optimizing performance, and advanced backend architectures.<br>🌱 I’m currently learning Python for backend development and deepening my expertise in DevOps.<br>💬 Ask me about JavaScript, React, Next.js, Node.js, Express.js, MongoDB
+<br>⚡ Fun fact: I started as a front-end developer but quickly fell in love with full-stack development.<br><br>🚀 Let's connect and build something amazing!
 
 
 ## 🌐 Socials:
